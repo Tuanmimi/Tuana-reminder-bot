@@ -1,3 +1,2 @@
 # config.py
-BOT_TOKEN = "7487357212:AAHsc5HdDRv_AY5pwkpBMO-L2jAWzHp-n6g"
-добавила токен
+BOT_TOKEN = "7487357212:AAHsc5HdDRv_AY5pwkpBMO-L2jAWzHp-n6g
